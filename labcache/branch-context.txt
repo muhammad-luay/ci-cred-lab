@@ -1,0 +1,4 @@
+GL1CACHE01 branch context
+branch=labcache/x
+purpose=PR head ref for cache-scope lab (benign markers only)
+utc=2026-09-15T17:51:30Z
